@@ -43,7 +43,7 @@ export default function Home() {
               transition={{ duration: 1, delay: 0.5 }}
             >
               A passionate{" "}
-              <span className="text-pink-400">BTEC Student</span> building
+              <span className="text-pink-400">BTECH Student</span> building
               the future with code & creativity.
             </motion.p>
 
