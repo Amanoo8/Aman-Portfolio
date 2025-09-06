@@ -76,15 +76,6 @@ export default function SeeMyWork() {
             </h2>
             <p className="text-gray-300 mt-2">{project.description}</p>
 
-            {/* Link */}
-            <a
-              href={project.link}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="inline-flex items-center gap-2 mt-4 text-sm text-white bg-gradient-to-r from-pink-500 to-purple-600 px-4 py-2 rounded-lg shadow-md hover:opacity-90 transition"
-            >
-              Visit Project <ArrowUpRight size={16} />
-            </a>
           </motion.div>
         ))}
       </div>

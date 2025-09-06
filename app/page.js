@@ -70,10 +70,10 @@ export default function Home() {
           >
             <div className="p-2 rounded-full transition duration-500 group-hover:bg-gradient-to-tr group-hover:from-sky-400 group-hover:to-violet-600">
               <Image
-                src="/a.png"
+                src="/aman.jpg"
                 alt="Aman's Logo"
-                width={200}
-                height={200}
+                width={350}
+                height={350}
                 className="rounded-full border-4 border-white shadow-lg"
               />
             </div>
