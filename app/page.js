@@ -33,7 +33,7 @@ export default function Home() {
               animate={{ opacity: 1, y: 0 }}
               transition={{ duration: 1 }}
             >
-              Hi, I'm Aman
+              Hi, I&apos;m Aman
             </motion.h1>
 
             <motion.p
